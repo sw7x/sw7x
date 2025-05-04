@@ -61,6 +61,8 @@ Since I'm a full-time Software Developer, I also like to share my code so others
 
 </br>
 
+
+### Technologies
 <p align="center">
   <a href="https://github.com/sw7x">
     <img src="https://skillicons.dev/icons?i=androidstudio,angular,apple,arch,arduino,aws,bash,bitbucket,blender,bootstrap,c,cs,cpp,css,dart,debian,bots,django,express,figma,firebase,flask,flutter,gamemakerstudio,gcp,git,github,githubactions,gitlab,go,godot,graphql,heroku,html,ai,java,js,kali,linux,md,materialui,mongodb,mysql,nestjs,nodejs,npm,opencv,ps,php,postgres,postman,raspberrypi,robloxstudio,spring,supabase,svelte,tensorflow,threejs,ts,ubuntu,unity,unreal,vim,visualstudio,vscode,vue,vuetify,windows,xd,yarn&theme=dark" />
@@ -69,7 +71,7 @@ Since I'm a full-time Software Developer, I also like to share my code so others
 <!-- -->
 
 
-<img src="https://skillicons.dev/icons?i=react,aws,bash,bitbucket,bootstrap,c,css,django,express,flask,git,github,githubactions,go,rust,graphql,html,ai,java,js,,mongodb,python,mysql,nodejs,npm,ps,php,postgres,postman,ts,ubuntu,vscode,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,aws,bash,bitbucket,bootstrap,c,css,django,express,flask,git,github,githubactions,go,rust,graphql,html,ai,java,js,mongodb,python,mysql,nodejs,npm,ps,php,postgres,postman,ts,ubuntu,vscode,&theme=dark" />
 
 
 
