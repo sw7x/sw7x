@@ -67,3 +67,10 @@ Since I'm a full-time Software Developer, I also like to share my code so others
   </a>
 </p> 
 <!-- -->
+
+
+<img src="https://skillicons.dev/icons?i=react,aws,bash,bitbucket,bootstrap,c,css,django,express,flask,git,github,githubactions,go,rust,graphql,html,ai,java,js,,mongodb,python,mysql,nodejs,npm,ps,php,postgres,postman,ts,ubuntu,vscode,&theme=dark" />
+
+
+
+
