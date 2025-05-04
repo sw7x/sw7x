@@ -11,17 +11,7 @@
 
 <p align="center"> 
   <a href="https://github.com/sw7x">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&showBorder=false&lineHeight=4&lineCount=3&hideTitle=true&theme=github_dark&gap=4&width=890&hideBg=true&bg=%23FFFFFF&badge=%23000000&border=%23D8DEE4&titleColor=%233f7ec5&line1=Dart%2CDart%2C7b88ff%3BPython%2CPython%2C1ba100%3B
-    C%2B%2B%2C6eb5ee%3B
-    Typescript%2CTypescript%2C59d4ff%3B
-    JavaScript%2CJavaScript%2Cddd000%3B
-    Rust%2CRust%2Cff8888%3B
-    Django%2CDjango%2C05ff02%3B
-    Flask%2CFlask%2Cf4d380%3B
-    Tensorflow%2CTensorflow%2Cdb9b00%3B
-    PostgreSQL%2CPostgreSQL%2C486fff%3B
-    Docker%2CDocker%2C5089ff%3B
-    Go%2CGo%2C58ffa1%3B" alt="My Tech Stack" />
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?align=center&titleAlign=center&showBorder=false&lineHeight=4&lineCount=3&hideTitle=true&theme=github_dark&gap=4&width=890&hideBg=true&bg=%23FFFFFF&badge=%23000000&border=%23D8DEE4&titleColor=%233f7ec5&line1=Dart%2CDart%2C7b88ff%3BPython%2CPython%2C1ba100%3BC%2B%2B%2C6eb5ee%3BTypescript%2CTypescript%2C59d4ff%3BJavaScript%2CJavaScript%2Cddd000%3BRust%2CRust%2Cff8888%3BDjango%2CDjango%2C05ff02%3BFlask%2CFlask%2Cf4d380%3BTensorflow%2CTensorflow%2Cdb9b00%3BPostgreSQL%2CPostgreSQL%2C486fff%3BDocker%2CDocker%2C5089ff%3BGo%2CGo%2C58ffa1%3B" alt="My Tech Stack" />
   </a>
   
 </p>
