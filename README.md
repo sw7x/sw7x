@@ -4,7 +4,7 @@
 </br>
 <p align="center">
  <a href="https://github.com/sw7x">
-    <img src="https://readme-typing-svg.demolab.com?weight=800&duration=3000&pause=1000&color=3ce618&center=true&vCenter=true&random=false&width=800&lines=Software+Design+Consultant;Expert+in+Web+App+Development;AI+Enthusiast;Researcher+in+Computer+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?weight=800&duration=3000&pause=1000&color=3ce618&center=true&vCenter=true&random=false&width=800&lines=Expert+in+Web+App+Development;Software+Design+Practitioner;Fullstack+Web+Developer;AI+Enthusiast;Researcher+in+Computer+Science" alt="Typing SVG" />
   </a>
 </p>
 
