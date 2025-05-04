@@ -1,7 +1,11 @@
+<!-- 
 <p align="center"> 
     <img  src="./res/cover.jpg"/>
 </p> 
 </br>
+-->
+
+
 <p align="center">
  <a href="https://github.com/sw7x">
     <img src="https://readme-typing-svg.demolab.com?weight=800&duration=3000&pause=1000&color=3ce618&center=true&vCenter=true&random=false&width=800&lines=Expert+in+Web+App+Development;Software+Design+Practitioner;Fullstack+Web+Developer;AI+Enthusiast;Researcher+in+Computer+Science" alt="Typing SVG" />
@@ -51,6 +55,8 @@ Since I'm a full-time Software Developer, I also like to share my code so others
     <img  height="200"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sw7x&layout=compact&hide_border=true&theme=great-gatsby&langs_count=10" /> 
  </a>
 </p>
+
+</br>
 
 <p align="center"> 
 <!--   <img align="center" src="./res/load.gif"/> -->
